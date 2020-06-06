@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 """made by https://github.com/CyberDemon-crypto"""
 import time
 nominal = [1, 2, 5, 10, 100, 500, 1000, 10000]
